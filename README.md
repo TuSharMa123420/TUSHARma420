@@ -1,43 +1,101 @@
 <h1 align="center">Hi 👋, I'm Tushar Sharma</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharma420&label=Profile%20views&color=0e75b6&style=flat" alt="tusharma420" /> </p>
+<h3 align="center">
+Technical Analyst @ Nasdaq FinTech | AI & Automation Enthusiast | AWS | Python | Linux | Problem Solver
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharma420" alt="tusharma420" /></a> </p>
-
-- 🔭 I’m currently working on **RAICHU EV**
-
-- 🌱 I’m currently learning **VUE2, CLOUD,**
-
-- 👯 I’m looking to collaborate on **GOLV**
-
-- 🤝 I’m looking for help with **RAICHU EV**
-
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/8945307306693651653](https://www.blogger.com/blog/posts/8945307306693651653)
-
-- 💬 Ask me about **ANGULAR, CSS, NODE, Linux,**
-
-- 📫 How to reach me **tashush123420@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tUCj3S6y_9eaALVVuQtwWo3GBvm_WRNv/view?usp=sharing](https://drive.google.com/file/d/1tUCj3S6y_9eaALVVuQtwWo3GBvm_WRNv/view?usp=sharing)
-
-- ⚡ Fun fact **I perform extremely well in tricky situations because of my fast action taking skills and If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tushar_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushar_s" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tushar sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar sharma" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tushar sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tushar sharma" height="30" width="40" /></a>
-<a href="https://fb.com/tushar sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tushar sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/tushar_s_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar_s_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tashu420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tashu420" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tushar sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tushar sharma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tushar sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar sharma" height="30" width="40" /></a>
+<p align="center">
+I enjoy solving complex technical problems, automating repetitive workflows, exploring AI-powered solutions, and building tools that improve productivity and operational excellence.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharma420&show_icons=true&locale=en&layout=compact" alt="tusharma420" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharma420&show_icons=true&locale=en" alt="tusharma420" /></p>
+* 🔭 Currently working as **Technical Analyst - Calypso Technical Support @ Nasdaq FinTech**
+* 🤖 Building and exploring **AI-powered productivity & automation solutions**
+* 🌱 Currently learning **AWS, Linux, System Design, Kubernetes and Advanced Python**
+* 💡 Passionate about **AI, Automation, Cloud Technologies, FinTech and Problem Solving**
+* 🛠️ Experienced in **Technical Support, Root Cause Analysis, API Debugging and Incident Management**
+* 📈 Interested in **Cloud Engineering, Site Reliability Engineering, AI Operations and Platform Engineering**
+* 🎯 Goal: Become a world-class engineer capable of solving large-scale technology challenges
+* 💬 Ask me about **Python, AWS, Linux, SQL, APIs, Calypso, FinTech, Automation**
+* 📫 Reach me at: **[tashush123420@gmail.com](mailto:tashush123420@gmail.com)**
+
+---
+
+## 🌟 Current Focus
+
+```yaml
+Learning:
+  - AWS Cloud
+  - Linux Administration
+  - Kubernetes
+  - AI Agents
+  - Automation Engineering
+  - System Design
+
+Building:
+  - AI Productivity Tools
+  - Automation Utilities
+  - Cloud Projects
+  - Monitoring Solutions
+```
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+Python • Java • SQL • JavaScript • HTML • CSS
+
+### Cloud & Infrastructure
+
+AWS • Linux • Kubernetes • REST APIs
+
+### Databases
+
+MySQL • Oracle DB • MongoDB
+
+### Tools
+
+Git • GitHub • Postman • VS Code • Figma
+
+### Areas of Interest
+
+AI • Automation • FinTech • Cloud Engineering • Site Reliability • DevOps
+
+---
+
+## 🏆 Achievements
+
+* 🥇 National Gold Medalist – Taekwondo
+* ⭐ HackerRank 5-Star MySQL Badge
+* 🏅 Byte Spark Badge Earner – Bajaj FinServ
+* 🏆 1st Prize – SIT Codex Project Exhibition
+* 🤖 AI Practitioner & Knowledge Sharing Lead
+* ⚽ Pune Sports Community Lead @ Nasdaq
+
+---
+
+## 📌 Featured Projects
+
+### ⚡ Raichu
+
+EV Charging Station & Rental Platform
+
+### 🌍 Oliday
+
+Travel Planning & Holiday Management Platform
+
+### 🤖 Upcoming AI Projects
+
+* AI Incident Analysis Assistant
+* AI Log Analyzer
+* Cloud Monitoring Dashboard
+* Automation Toolkit
+
+---
+
+## 📊 GitHub Stats
